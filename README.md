@@ -1,2 +1,3 @@
-# yolo_vehicles_monitor
-简单的yolo识别代码
+### 简单的yolo识别代码
+
+自己学习使用，如果你喜欢你还可需要到官网上找个weights文件。
